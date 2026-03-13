@@ -16,6 +16,7 @@ Kevin - S385480
 We all agree to contribute fairly and consistently to the completion of this project. We expect that all members will receive a similar mark due to the equal contribution. A fair contribution includes attending meetings, completing assigned tasks, participating in discussions and making meaningful commits to this and future GitHub Repositories. If a member does not contribute or communicate with the group, the issue will first be discussed within the group. If the problem continues, Shantanu Barua will be contacted and GitHub commits or meeting participation may be used of evidence of contribution and this is how we will ensure we stay focused.
 
 ## 1.2 Communication
+The group will communicate mainly through Microsoft Teams for discussions and meetings. GitHub issues will be used to track tasks and technical discussions. We will be expected to respond to messages within 24 hours during weekdays. Regular meetings will be held to review progress, plan upcoming tasks and discuss any issues.
 
 ## 1.3 Task Ownership
 
