@@ -19,7 +19,7 @@ We all agree to contribute fairly and consistently to the completion of this pro
 The group will communicate mainly through Microsoft Teams for discussions and meetings. GitHub issues will be used to track tasks and technical discussions. We will be expected to respond to messages within 24 hours during weekdays. Regular meetings will be held to review progress, plan upcoming tasks and discuss any issues.
 
 ## 1.3 Task Ownership
-Tasks will be assigned
+Tasks will be assigned to individual members and tracked using GitHub commit history. Each memeber is responsible for completing their assigned tasks on time. If one of us cannot complete a task, they must inform the group early so the task can be reassigned if necessary.
 
 ## 1.4 Diverse Working Styles
 
