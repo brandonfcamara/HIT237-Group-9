@@ -13,7 +13,7 @@ Kevin - S385480
 # 1. Terms and Conditions of Group Work
 
 ## 1.1 Group Allocations 
-All members of Group 9 agree to 
+We all agree to contribute fairly and consistently to the completion of this project. 
 
 ## 1.2 Communication
 
