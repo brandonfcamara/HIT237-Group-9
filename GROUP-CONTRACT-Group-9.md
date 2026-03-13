@@ -6,13 +6,14 @@ Team Members:
 Brandon - S389937
 Cahaya - S387346
 Chanveasna - S377961
-Kevin -
+Kevin - S385480
 
 ---
 
 # 1. Terms and Conditions of Group Work
 
 ## 1.1 Group Allocations 
+All members of Group 9 agree to 
 
 ## 1.2 Communication
 
