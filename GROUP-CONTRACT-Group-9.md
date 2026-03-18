@@ -22,10 +22,13 @@ The group will communicate mainly through Microsoft Teams for discussions and me
 Tasks will be assigned to individual members and tracked using GitHub commit history. Each member is responsible for completing their assigned tasks on time. If one of us cannot complete a task, they must inform the group early so the task can be reassigned if necessary.
 
 ## 1.4 Diverse Working Styles
+Our group understands that each member may have different schedules, study habits, strengths, and personal responsibilities. To work effectively, we agree to respect these differences and stay flexible when planning tasks and meetings. Some members may prefer to start work early, while others may work better closer to the deadline, so we will set internal deadlines earlier than the final due date to give everyone enough time. We will also divide tasks based on individual strengths where possible, such as research, writing, editing, or technical work.
 
 ## 1.5 Conflict Resolution
+If conflict or disagreement happens in the group, we will first try to resolve it respectfully through discussion in Microsoft Teams or during a meeting. Each member will have the chance to explain their view, and the group will focus on solving the problem rather than blaming each other. If the issue involves missed work, unclear communication, or unequal effort, we will review the agreed responsibilities and decide on a practical solution as a team. If the problem is not resolved after group discussion, we will document the issue and give the member involved a clear chance to improve. If the conflict continues or begins to affect the project, we will escalate it to the lecturer or teaching staff with evidence such as Teams messages, meeting records, or GitHub commits. This process helps ensure fairness, accountability, and professionalism.
 
 ## 1.6 Academic Integrity
+Our group is committed to following CDU academic integrity rules in all stages of this project. All work submitted must be original, properly referenced where required, and understood by every member of the team. We will not copy work from other students, websites, or online sources without acknowledgement. If AI tools are used for brainstorming, explanation, or drafting ideas, the output must still be checked, edited, and fully understood by the group before being included in the final submission. No member should submit code, writing, or ideas that they cannot explain if asked. We will also review each other’s work before submission to reduce the risk of plagiarism, accidental misuse of sources, or incorrect information. By doing this, we aim to maintain honesty, fairness, and trust in our group work.
 
 # 2. Provisional Milestones and Checkpoints
 
