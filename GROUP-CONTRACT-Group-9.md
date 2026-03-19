@@ -33,9 +33,23 @@ Our group is committed to following CDU academic integrity rules in all stages o
 # 2. Provisional Milestones and Checkpoints
 
 ## 2.1 Key Milestones with Target Dates for each Assessment
+•	Assessment 2 and 4
+-	After Assessment 1, the timeline for Assessment 2 is due on 16/02/2026, and Assessment 4 is due on 28/05/2026. Hence, we plan to hold 1–2 weekly meetings to follow up on the assessment and provide feedback on each other's work. We plan to start the Assessments as soon as possible, and if we have any issues or misunderstandings with any part of the lecture. We would have to ask the lecturer for help. Given this, we would discuss with our teammates to have agreement upon each milestone and target dates to ensure that we will achieve and illustrate what the assessments want.
+-	
 ## 2.2 Internal Checkpoints
+•	Assessment 2
+-	As the tasks required us to design a Django Application by illustrating the ability to develop a model, decompose, and implement objects.
+-	As for the design philosophies, it will be decided by everyone in the group.
+-	Django Design will be tackled by Brandon
+-	Modelling Relationships will be tackled by Cahaya
+-	Django Query Set APIs will be tackled by Chanveasna
+-	Class-Based Views will be tackled by Kevin.
+•	Assessment 4
+-	This report expected us to provide more features upon the completion of Assessment 2, where we will be required to introduce more features into the application, such as authentication, layer of architecture, and testing to ensure that it will work and have a clear design. Lastly, we will expect to understand application on how to build, design, and test the Django application.
+
 ## 2.3 Integration Points
 In our project, we established internal checkpoints to track which one could be completed on time. These checkpoints were implemented during Microsoft Teams meetings and when submitting assigned tasks to GitHub. Therefore, we scheduled weekly meetings every weeks including all members attended and each person have to completed their assigned tasks. Additionally, if somebody experiencing difficulties then they should ask advice from others, allowing us to provide necessary support. This helped us complete tasks on time or sometimes even ahead of schedule. Moreover, we also use GitHub Issues and commit history to track each person's progress more accurately and then when any task was completed, it was marked as finished, and major or even small changes were recorded by commits on the repository. This demonstrated the full contribution and activity of all team members.
+
 ## 2.4 Agreement
 And the most important is that the project, built from the small contributions of each person, should be a collaborative effort involving by all of people. Therefore, all of people in group not only show their individual tasks but also act as links to ensure the project is cohesive and unified. In this project, we will choose GitHub Repository as the main platform to upload all files, documents, source code, and anything else related to the project for storage. For example, when someone finishes their part of the work then they will submit it so other members can update and give feedback easily. Our team will hold a meeting to finalize the work and make sure the project is complete. This is also a step where members can exchange ideas and contribute to revisions for any parts that are still incorrect. We will cross-evaluate each other to arrive at the most optimal and effective solution. After all the work has been integrated, the team will conduct a final check. As a result, the team will review all project documentation, including content, structure, Markdown formatting, and commit history on GitHub. This ensures that the repository clearly reflects the team's collaborative process and fully meets the requirements of the review.
 
