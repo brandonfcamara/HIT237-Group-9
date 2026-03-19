@@ -34,8 +34,8 @@ Our group is committed to following CDU academic integrity rules in all stages o
 
 ## 2.1 Key Milestones with Target Dates for each Assessment
 •	Assessment 2 and 4
--	After Assessment 1, the timeline for Assessment 2 is due on 16/02/2026, and Assessment 4 is due on 28/05/2026. Hence, we plan to hold 1–2 weekly meetings to follow up on the assessment and provide feedback on each other's work. We plan to start the Assessments as soon as possible, and if we have any issues or misunderstandings with any part of the lecture. We would have to ask the lecturer for help. Given this, we would discuss with our teammates to have agreement upon each milestone and target dates to ensure that we will achieve and illustrate what the assessments want.
--	
+-	After Assessment 1, the timeline for Assessment 2 is due on 16/02/2026, and Assessment 4 is due on 28/05/2026. Hence, we plan to hold 1–2 weekly meetings to follow up on the assessment and provide feedback on each other's work. We plan to start the Assessments as soon as possible, and if we have any issues or misunderstandings with any part of the lecture. We would have to ask the lecturer for help. Given this, we would discuss with our teammates to have an agreement upon each milestone and target dates to ensure that we will achieve and illustrate what the assessments want.
+
 ## 2.2 Internal Checkpoints
 •	Assessment 2
 -	As the tasks required us to design a Django Application by illustrating the ability to develop a model, decompose, and implement objects.
